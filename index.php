@@ -1,1 +1,1 @@
-<p> Hello World, PHP in Azure </p>
+<p> Hello World, PHP in Azure. For getting phpinfo click <a href="phpinfo.php">phpinfo<a> </p>
